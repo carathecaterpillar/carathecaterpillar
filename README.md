@@ -9,7 +9,9 @@ I'm currently diving into: <br>
   🤖🧠 Machine Learning
 
 You can read some of my Machine Learning articles from my OpenGenus internship [here](https://iq.opengenus.org/author/cara-rono/)
+<!---
 <br>Also, check [my website!](https://ronocara.github.io/) 
+-->
 
 
 
