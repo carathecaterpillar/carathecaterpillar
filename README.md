@@ -12,6 +12,6 @@ You can read some of my Machine Learning articles from my OpenGenus internship [
 <!---
 <br>Also, check [my website!](https://ronocara.github.io/) 
 -->
-<br> Website under progress!
+<br> Website in progress!
 
 
