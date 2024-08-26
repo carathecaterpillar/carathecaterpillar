@@ -6,7 +6,7 @@ I was a computer science student specializing in data science.
 My current interests: <br>
   &#128200; Data Analytics <br>
   🤖🧠 Machine Learning <br>
-  &#128039; Trying out differentn Linux Distros <br>
+
   
 
 
